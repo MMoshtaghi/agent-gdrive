@@ -1,6 +1,6 @@
-# Aaltoes Agent
+# Agent GDrive
 
-Aaltoes Agent is an AI-powered tool designed to interact with Google Drive using the `gdrive-mcp` server as a tool. It leverages the `smolagents` library.
+Agent GDrive is an AI-powered tool designed to interact with Google Drive using the `gdrive-mcp` server as a tool. It leverages the `smolagents` library.
 
 ## Features
 
