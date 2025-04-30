@@ -18,7 +18,7 @@ Agent GDrive is an AI-powered tool designed to interact with Google Drive using 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/aaltoes-agent.git
+    git clone <repository-url>
     cd aaltoes-agent
     ```
 
